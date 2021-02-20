@@ -1,1 +1,1 @@
-This file should answer all the questions I have been recieving about this question.
+# This file should answer all the questions you have about this question.
